@@ -1,0 +1,4 @@
+name, price, count
+Phone, 40000, 10
+Charger, 500, 20
+Earphones, 100, 50
